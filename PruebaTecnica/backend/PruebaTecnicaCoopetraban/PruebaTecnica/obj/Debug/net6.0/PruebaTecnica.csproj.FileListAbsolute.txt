@@ -1,0 +1,8 @@
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.AssemblyInfo.cs
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.RazorAssemblyInfo.cache
+C:\Users\jonat\source\repos\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.RazorAssemblyInfo.cs

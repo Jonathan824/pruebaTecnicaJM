@@ -1,0 +1,5 @@
+C:\Users\jonat\source\repos\Abstractions\obj\Debug\net6.0\Abstractions.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Abstractions\obj\Debug\net6.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Abstractions\obj\Debug\net6.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Abstractions\obj\Debug\net6.0\Abstractions.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Abstractions\obj\Debug\net6.0\Abstractions.csproj.CoreCompileInputs.cache
